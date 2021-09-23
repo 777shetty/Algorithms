@@ -1,7 +1,5 @@
 package com.bridgelabz.algorithm;
 import java.util.*;
-
-
 public class AnagramAndPalindrome {
 
 	public static void checkAnagramsAndPalindrome(ArrayList<Integer> listOfPrime) {
